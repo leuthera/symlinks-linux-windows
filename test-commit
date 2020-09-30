@@ -1,0 +1,1 @@
+git ls-files -s | gawk '/12000/{print }'
